@@ -15,3 +15,6 @@ let scoreAsNumber = Number(score)
 console.log(scoreAsNumber);
 console.log(typeof scoreAsNumber);
 
+
+
+
