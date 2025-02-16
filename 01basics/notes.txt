@@ -1,0 +1,15 @@
+**Data types summary**
+
+primitive & Non-primitive
+
+===========================================================================
+1. primitive
+-> 7 Types = string, number, boolean, null, undefined, symbol
+
+2. Non-primitive (Reference)
+-> array, objects, functions
+==========================================================================
+
+H.M -> Learn/Read all String functions 
+
+==========================================================================
